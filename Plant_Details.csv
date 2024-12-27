@@ -1,0 +1,74 @@
+﻿name,Code,Ownership,Fuel_Type,Rated_Capacity,PAF,PLF,Aux_Consumption,Variable_Cost,Type,Technical_Minimum
+ACB India Ltd,CO_PRIV_ACB,Private IPP,Coal,200,0.9,0.9,0,5,Must run,0.42
+Adani Power Ltd Bid 1,CO_PRIV_APCL_1,Private IPP,Coal,1200,0.9,0.9,0.09,4.31,Other,0.5
+Adani Power Ltd Bid 2,CO_PRIV_APCL_2,Private IPP,Coal,1234,0.9,0.9,0.0575,3.85,Other,0.85
+Biomass,BI,Central,Atomic,30,0.9,0.9,0,3.97,Must run,0.53
+Captive Power,CA,Central,Atomic,8,0.9,0.9,0.08,4.4,Must run,0.85
+Coastal Gujarat Power Co Ltd,CO_PRIV_CGPC,Private IPP,Coal,1805,0.9,0.9,0.0525,3.84,Other,0.65
+DB Power,CO_PRIV_DBPOW,Private IPP,Coal,293,0.9,0.9,0,7.21,Must run,0
+Essar Power Gujarat Ltd,CO_PRIV_EPGL,Private IPP,Coal,1122,0.9,0.9,0.095,4.25,Other,0.7
+GPPC Pipavav,GA_GPCL_PIPA,IPP,Gas,702,0.9,0.9,0.04,9.02,Other,0.01
+GSECL BLTPS,CO_GSEC_BLTP,State,Lignite,500,0.9,0.9,0.1,2.87,Other,0.75
+GSECL Dhuvaran - 7,GA_GSEC_DHUV_7,State,Gas,107,0.9,0.9,0.0625,4.94,Other,0.85
+GSECL Dhuvaran - 8,CO_GSEC_DHUV_8,State,Gas,112,0.9,0.9,0.085,4.92,Other,0.85
+GSECL Dhuvaran CCPP III,GA_GSEC_DHUV_3,State,Gas,376,0.9,0.9,0.09,8.6,Other,0.22
+GSECL Gandhinagar - 5,CO_GSEC_GTPS_5,State,Coal,210,0.9,0.9,0,4.04,Other,0.8
+GSECL Gandhinagar 3-4,CO_GSEC_GTPS_3_4,State,Coal,420,0.9,0.9,0.0625,4.29,Other,0.85
+GSECL Kadana Hydro,HY_GSEC_KHPS,State,Hydle,242,0.9,0.9,0.01,0,Must run,0.17
+GSECL Kutch Lignite,CO_GSEC_KLTP,State,Lignite,75,0.9,0.9,0.0678125,3.82,Other,0.85
+GSECL Kutch Lignite Exp unit 4,CO_GSEC_KLTP_4,State,Lignite,75,0.9,0.9,0.11,3.53,Other,0.3
+GSECL Sikka Expansion,CO_GSEC_SIKA_EX,State,Coal,500,0.9,0.9,0.0625,4.93,Other,0.85
+GSECL Ukai ,CO_GSEC_UKAI,State,Coal,610,0.9,0.9,0.0625,4.27,Other,0.85
+GSECL Ukai Expan,CO_GSEC_UKAI_EX,State,Coal,500,0.9,0.9,0.0625,3.67,Other,0.85
+GSECL Ukai Hydro,HY_GSEC_UKAI,State,Hydle,305,0.9,0.9,0.006,0,Must run,0.37
+GSECL Utran Expan,GA_GSEC_UTRN_EX,State,Gas,375,0.9,0.9,0.03,6.46,Other,0.01
+GSECL Wanakbori - 7,CO_GSEC_WANA_7,State,Coal,210,0.9,0.9,0,4.31,Other,0.8
+GSECL Wanakbori - 8,CO_GSEC_WARA_8,State,Coal,800,0.9,0.9,0.0625,3.7,Other,0.85
+GSECL Wanakbori 1-6,CO_GSEC_WANA_1_6,State,Coal,1260,0.9,0.9,0.095,4.43,Other,0.7
+Gujarat Industries Power Co Ltd (145 MW),GA_GPCL_145,IPP,Gas,28,0.9,0.9,0,12.54,Other,0.01
+Gujarat Industries Power Co Ltd (165 MW),GA_GPCL_165,IPP,Gas,0,0.9,0.9,0.03,11.87,Other,0.01
+Gujarat Industries Power Co Ltd (SLPP - Exp),CO_GIPC_SLPP_2,IPP,Lignite,250,0.9,0.9,0.0625,2.36,Other,0.85
+Gujarat Industries Power Co Ltd (SLPP),CO_GIPC_SLPP_1,IPP,Lignite,250,0.9,0.9,0.0625,2.62,Other,0.85
+Gujarat Mineral Development Corp.,CO_GMDC,IPP,Lignite,250,0.9,0.9,0.09,1.71,Other,0.85
+Gujarat State Energy Generation ,GA_GPCL,IPP,Gas,156,0.9,0.9,0.03,12.34,Other,0.01
+Gujarat State Energy Generation Expansion,GA_GPCL_EXPA,IPP,Gas,351,0.9,0.9,0.03,11.18,Other,0.01
+HPO,HP,Central,Atomic,0,0.9,0.9,0,6.31,Must run,0.96
+HPO (New),HP_N,Central,Atomic,101.25,0.9,0.9,0,6.31,Must run,0.65
+Nabinagar Power Generating Co Ltd,CO_NTPC_NSTP,Central,Coal,50.45,0.9,0.9,0.11,2.16,Other,0.3
+NPCIL - KAPS 3 & 4,NU_NPCI_KAPS_3_4,Central,Atomic,476,0.9,0.9,0.08,4.4,Must run,0.85
+NPC-Kakrapar 1& 2,NU_NPCI_KAPS_1_2,Central,Atomic,125,0.9,0.9,0.08,2.29,Must run,0.85
+NPC-Tarapur 1 & 2,NU_NPCI_TARA_1_2,Central,Atomic,160,0.9,0.9,0.09,3.42,Must run,0.7
+NPC-Tarapur 3 & 4,NU_NPCI_TARA_4_3,Central,Atomic,274,0.9,0.9,0.09,3.42,Must run,0.85
+NTPC-Barah - 1,CO_NTPC_BARA_1,Central,Coal,163.91,0.9,0.9,0.0625,2.68,Other,0.85
+NTPC-Dadri - 1,CO_NTPC_DAD_1,Central,Coal,577,0.9,0.9,0,4.45,Other,0.8
+NTPC-Darlipalli,CO_NTPC_DARL,Central,Coal,14,0.9,0.9,0,6.01,Must run,0
+NTPC-Farakka - 1 & 2,CO_NTPC_FARA_1_2,Central,Coal,255,0.9,0.9,0.12,3.67,Other,0.2
+NTPC-Farakka - 3,CO_NTPC_FARA_3,Central,Coal,59.74,0.9,0.9,0.09,3.62,Other,0.85
+NTPC-Gadarwara,CO_NTPC_GADA,Central,Coal,333.49,0.9,0.9,0,4.2,Other,0.8
+NTPC-Jhanor,GA_NTPC_JHAN,Central,Gas,237,0.9,0.9,0.03,10.37,Other,0.01
+NTPC-Kahalgaon II,CO_NTPC_KAHA_2,Central,Coal,146,0.9,0.9,0.0625,3.17,Other,0.85
+NTPC-Kahlagaon I,CO_NTPC_KAHA_1,Central,Coal,141.02,0.9,0.9,0.1,2.99,Other,0.65
+NTPC-Kawas,GA_NTPC_KAWS,Central,Gas,187,0.9,0.9,0.0275,12.33,Other,0.01
+NTPC-Khargone,CO_NTPC_KHAR,Central,Coal,269.88,0.9,0.9,0.09,4.49,Other,0.48
+NTPC-Korba,CO_NTPC_KORB,Central,Coal,379.94,0.9,0.9,0.0705,1.61,Other,0.85
+NTPC-Korba -III,CO_NTPC_KORB_3,Central,Coal,130.22,0.9,0.9,0,0.7,Other,0.75
+NTPC-LARA,CO_NTPC_LARA,Central,Coal,186.23,0.9,0.9,0.0625,2.09,Other,0.85
+NTPC-Mauda,CO_NTPC_MAUD,Central,Coal,470.35,0.9,0.9,0.12,3.95,Other,0.75
+NTPC-Mauda II,CO_NTPC_MAUD_2,Central,Coal,530.53,0.9,0.9,0.0625,4.22,Other,0.85
+NTPC-Sipat - II,CO_NTPC_SIPA_2,Central,Coal,285.64,0.9,0.9,0.0705,1.9,Other,0.85
+NTPC-Sipat-I,CO_NTPC_SIPA_1,Central,Coal,576.5,0.9,0.9,0.0704,1.64,Other,0.85
+NTPC-Solapur,CO_NTPC_SOLA,Central,Coal,24.34,0.9,0.9,0.09,4.46,Other,0.85
+NTPC-Talcher,CO_NTPC_TALC,Central,Coal,24,0.9,0.9,0.0725,1.61,Other,0.85
+NTPC-Tanda - 2,CO_NTPC_TAND_2,Central,Coal,44,0.9,0.9,0.06,3.81,Other,0.65
+NTPC-Unchahar - 1,CO_NTPC_UNCH_1,Central,Coal,63,0.9,0.9,0.09,4.35,Other,0.55
+NTPC-Vindhyachal - I,CO_NTPC_VIND_1,Central,Coal,247.29,0.9,0.9,0.0625,1.61,Other,0.85
+NTPC-Vindhyachal - II,CO_NTPC_VIND_2,Central,Coal,252.28,0.9,0.9,0,1.54,Other,0.9
+NTPC-Vindhyachal - III,CO_NTPC_VIND_3,Central,Coal,279.28,0.9,0.9,0.0625,1.57,Other,0.85
+NTPC-Vindhyachal - IV,CO_NTPC_VIND_4,Central,Coal,258.35,0.9,0.9,0.0625,1.18,Other,0.85
+NTPC-Vindhyachal - V,CO_NTPC_VIND_5,Central,Coal,102.67,0.9,0.9,0.0625,1.59,Other,0.85
+Others (New),OT,Central,Atomic,59.7,0.9,0.9,0,2.9,Must run,0.38
+Sardar Sarovar Narmada Nigam Ltd,HY_GSEC_SSNN,Central,Hydle,232,0.9,0.9,0.007,2.05,Must run,0.37
+Small/Mini Hydal,SH,Central,Atomic,21.6,0.9,0.9,0,3.2,Must run,0.23
+Solar,SO,Central,Atomic,3981,0.9,0.9,0,3.52,Must run,0.21
+Waste to Energy,WE,Central,Atomic,7.5,0.9,0.9,0,0,Must run,0
+Wind Farms ,WI,Central,Atomic,4280,0.9,0.9,0,2.22,Must run,0.01
